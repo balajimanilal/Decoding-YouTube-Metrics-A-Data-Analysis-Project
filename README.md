@@ -1,4 +1,4 @@
-# Decoding YouTube Metrics; A Data Analysis Project
+# Decoding YouTube Metrics: A Data Analysis Project
 
 The project aimed to analyze YouTube data to uncover trends, patterns, and insights regarding viewer engagement, channel performance, and the impact of metadata on video metrics.
 
