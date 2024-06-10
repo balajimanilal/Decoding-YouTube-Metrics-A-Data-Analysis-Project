@@ -32,4 +32,4 @@ The project aimed to analyze YouTube data to uncover trends, patterns, and insig
 
 **Conclusions:**
 
-The project provides valuable insights into viewer behavior and content performance on YouTube. Data-driven decisions can be made regarding content creation, promotion, and audience engagement strategies. Further analysis could explore additional factors influencing video success, such as video length, upload frequency, and thumbnail design.
+The project provides valuable insights into viewer behavior and content performance on YouTube. Data-driven decisions can be made regarding content creation, promotion, and audience engagement strategies. Further analysis could explore additional factors influencing video success, such as video length, upload frequency, & thumbnail design.
